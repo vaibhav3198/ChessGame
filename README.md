@@ -23,3 +23,6 @@ A chess engine built from scratch in Java.
 
 ## Dependencies
 Guava library.
+
+## Developer
+Vaibhav Agasti
